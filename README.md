@@ -4,7 +4,7 @@ This repository contains some basic docs on how to operate `pulp container`.
 
 Setup [pulp-in-one-container](https://pulpproject.org/pulp-in-one-container/):
 
-    make aio
+    make pio
 
 Reset admin password inside the container:
 
