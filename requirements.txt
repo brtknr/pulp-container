@@ -1,0 +1,2 @@
+pulp-cli[pygments]>=0.10.1
+Pygments>=2.9.0
